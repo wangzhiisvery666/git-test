@@ -9,5 +9,6 @@ public class response {
     System.out.println("master merge");
     System.out.println("hot-fix merge");
     System.out.println("push test~");
+    System.out.println("pull test~");
     }
 }
